@@ -25,7 +25,9 @@ Notes:
 *   https://github.com/moljac/HolisticWare.WebSite.Notes
 
 
-<table><tr><td valign="top">
+<table>
+    <tr>
+        <td valign="top">
 
 ### Recent releases
 <!-- recent_releases starts -->
@@ -34,20 +36,25 @@ Notes:
 *   2020-07-14 [GPS-FB 100.20200714-androidx-previews02-202002](https://github.com/xamarin/GooglePlayServicesComponents/releases/tag/100.20200714-androidx-previews02-202002)
 
 <!-- recent_releases ends -->
-</td><td valign="top">
+        </td>
+        <td valign="top">
 
 ### On my blog
 <!-- blog starts -->
 <!-- blog ends -->
 
 More on [holisticware.net](https://holisticware.net/)
-</td><td valign="top">
-
+        </td>
+        <td valign="top">
+    
 ### TIL
 <!-- tils starts -->
 <!-- tils ends -->
-More on [til.moljacillison.net](https://til.moljacillison.net/)
-</td></tr></table>
+More on [holisticware.net](https://holisticware.net/moljac/til)
+
+        </td>
+    </tr>
+</table>
 
 <a 
     href="https://github.com/moljac/moljac/actions">
