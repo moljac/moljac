@@ -1,8 +1,4 @@
-### Hi there 👋
-
 moljac (Miljenko Cvjetko, Mel, moki)
-
-
 
 Currently working on Xamarin.Android team on:
 
@@ -11,14 +7,6 @@ Currently working on Xamarin.Android team on:
 *   [Google.Play.Services and Firebase](https://github.com/xamarin/GooglePlayServicesComponents)
 
 *   tooling to improve bindings productivity
-
-and stuff not ready yet 
-
-*   [blog](https://holisticware.net/)
-
-Contacts (some)    
-
-*   [@moljacsharp on Twitter](https://twitter.com/moljacsharp).
 
 Notes:
 
