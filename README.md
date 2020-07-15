@@ -6,9 +6,9 @@ moljac (Miljenko Cvjetko, Mel, moki)
 
 Currently working on Xamarin.Android team on:
 
-*   [AndroidX] (https://datasette.readthedocs.io/)
+*   [AndroidX](https://github.com/xamarin/AndroidX)
 
-*   [Google.Play.Services and Firebase] ()
+*   [Google.Play.Services and Firebase](https://github.com/xamarin/GooglePlayServicesComponents)
 
 *   tooling to improve bindings productivity
 
