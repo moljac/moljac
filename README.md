@@ -19,7 +19,7 @@ Notes:
 
 ### Recent releases
 <!-- recent_releases starts -->
-*   2020-07-14 [GPS-FB 100.20200714-androidx-previews04)(https://github.com/xamarin/GooglePlayServicesComponents/releases/tag/100.20200714-androidx-previews04) 
+*   2020-07-14 [GPS-FB 100.20200714-androidx-previews04](https://github.com/xamarin/GooglePlayServicesComponents/releases/tag/100.20200714-androidx-previews04) 
 
 *   2020-07-14 [GPS-FB 100.20200714-androidx-previews02-202002](https://github.com/xamarin/GooglePlayServicesComponents/releases/tag/100.20200714-androidx-previews02-202002)
 
