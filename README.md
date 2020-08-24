@@ -6,6 +6,8 @@ Currently working on Xamarin.Android team on:
 
 *   [Google.Play.Services and Firebase](https://github.com/xamarin/GooglePlayServicesComponents)
 
+*   https://github.com/xamarin/XamarinComponents
+
 *   tooling to improve bindings productivity
 
 Notes:
