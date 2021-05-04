@@ -4,9 +4,9 @@ Currently working on Xamarin.Android team on:
 
 *   [AndroidX](https://github.com/xamarin/AndroidX)
 
-*   [Google.Play.Services and Firebase](https://github.com/xamarin/GooglePlayServicesComponents)
+*   [GPS-FB-MLKit AKA Google.Play.Services, Firebase and MLKit](https://github.com/xamarin/GooglePlayServicesComponents)
 
-*   https://github.com/xamarin/XamarinComponents
+*   [Xamarin Components](https://github.com/xamarin/XamarinComponents)
 
 *   tooling to improve bindings productivity
 
