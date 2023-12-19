@@ -18,3 +18,7 @@ Notes:
 
 *   https://github.com/moljac/HolisticWare.WebSite.Notes
 
+   *   https://github.com/moljac/HolisticWare.WebSite.Notes/tree/master/xamarin/products/xamarin-platform/traditional-standard/xamarin.android/advanced/bindings/android-ecosystem/androidx/updates/tags
+
+   *   https://github.com/moljac/HolisticWare.WebSite.Notes/tree/master/xamarin/products/xamarin-platform/traditional-standard/xamarin.android/advanced/bindings/android-ecosystem/google-play-services-and-firebase-and-mlkit/updates/tags
+
